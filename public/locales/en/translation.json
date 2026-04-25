@@ -1,0 +1,16 @@
+{
+  "Zahle": "Zahle",
+
+  "Clouds": "Cloudy",
+  "Clear": "Clear",
+  "Rain": "Rain",
+  "Snow": "Snow",
+  "Mist": "Mist",
+  "Fog": "Fog",
+  "Haze": "Haze",
+  "Drizzle": "Drizzle",
+  "Thunderstorm": "Thunderstorm",
+
+  "Min": "Min",
+  "Max": "Max"
+}

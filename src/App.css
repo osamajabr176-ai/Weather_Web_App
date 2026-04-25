@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: A;
+    src: url('../public/static/PlaypenSansArabic-Regular.ttf');
+    font-weight: normal;
+}
+@font-face {
+    font-family: A;
+    src: url('../public/static/PlaypenSansArabic-Thin.ttf');
+    font-weight: 200;
+}
+@font-face {
+    font-family: A;
+    src: url('../public/static/PlaypenSansArabic-Bold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: A;
+    src: url('../public/static/PlaypenSansArabic-SemiBold.ttf');
+    font-weight: 600;
+}
