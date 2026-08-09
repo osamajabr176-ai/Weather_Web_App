@@ -3,8 +3,7 @@ import { useEffect, useState } from "react";
 import moment from "moment";
 import "moment/locale/ar"; 
 import { useTranslation } from "react-i18next";
-
-const WEATHER_KEY = process.env.REACT_APP_WEATHER_KEY;
+const WEATHER_KEY = import.meta.env.VITE_WEATHER_KEY;
 const CITY = "Zahle";
 
 function Card() {
